@@ -13,6 +13,7 @@ I'm a 3rd-year student at **Echelon Institute of Technology, Faridabad**, passio
 - 🔢 Machine Learning Algorithms (Logistic/Linear Regression)
 - 🔐 Cybersecurity (Threat domains, Malware, APTs, etc.)
 - 🧾 Data Cleaning & Visualization
+- 🤖 Artificial Intelligence 
 
 ---
 ## 📬 Connect with me
