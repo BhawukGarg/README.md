@@ -20,11 +20,20 @@ I'm a 3rd-year student at **Echelon Institute of Technology, Faridabad**, passio
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Bhawuk_Garg-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bhawuk-garg-928075308/)
 
 ## 🛠️ Tools & Tech
-![Python](https://img.shields.io/badge/-Python-333?logo=python&logoColor=yellow)
-![Tkinter](https://img.shields.io/badge/-Tkinter-333?logo=codeforces&logoColor=white)
-![Edge TTS](https://img.shields.io/badge/-Microsoft%20TTS-333?logo=microsoft&logoColor=white)
-![PyAutoGUI](https://img.shields.io/badge/-PyAutoGUI-333?logo=windows&logoColor=white)
-![Pyaudio](https://img.shields.io/badge/-PyAudio-333?logo=music&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white)
+#### 🖥️ Programming Languages
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+#### 🛠 Tools & Frameworks
+![Tkinter](https://img.shields.io/badge/-Tkinter-FFB400?style=for-the-badge&logo=python&logoColor=black)
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+#### 🌐 Web Basics
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
