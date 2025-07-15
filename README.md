@@ -15,11 +15,15 @@ I'm a 3rd-year student at **Echelon Institute of Technology, Faridabad**, passio
 - 🧾 Data Cleaning & Visualization
 
 ---
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]((https://www.linkedin.com/in/bhawuk-garg-928075308/))
+
 
 ## 🛠️ Tools & Tech
+![Python](https://img.shields.io/badge/-Python-333?logo=python&logoColor=yellow)
+![Tkinter](https://img.shields.io/badge/-Tkinter-333?logo=codeforces&logoColor=white)
+![Edge TTS](https://img.shields.io/badge/-Microsoft%20TTS-333?logo=microsoft&logoColor=white)
+![PyAutoGUI](https://img.shields.io/badge/-PyAutoGUI-333?logo=windows&logoColor=white)
+![Pyaudio](https://img.shields.io/badge/-PyAudio-333?logo=music&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white)
 
-```python
-Languages     = [ Python, C++, R, SQL, Java]
-AI/ML         = [ scikit-learn, NumPy, Pandas,  ]
-Dev Tools     = [ Git, VS Code, Jupyter Notebook ]
-Creative Work = [ Adobe After Effects, premire pro, MS Office,   ]
