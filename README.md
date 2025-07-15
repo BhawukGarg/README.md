@@ -19,7 +19,7 @@ I'm a 3rd-year student at **Echelon Institute of Technology, Faridabad**, passio
 ## 🛠️ Tools & Tech
 
 ```python
-Languages     = [ Python, C++, R ]
-AI/ML         = [ scikit-learn, NumPy, Pandas, Pregrad ]
+Languages     = [ Python, C++, R, SQL, Java]
+AI/ML         = [ scikit-learn, NumPy, Pandas,  ]
 Dev Tools     = [ Git, VS Code, Jupyter Notebook ]
-Creative Work = [ Roblox Studio, Canva, MS PowerPoint ]
+Creative Work = [ Adobe After Effects, premire pro, MS Office,   ]
