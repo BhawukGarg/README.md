@@ -15,8 +15,9 @@ I'm a 3rd-year student at **Echelon Institute of Technology, Faridabad**, passio
 - 🧾 Data Cleaning & Visualization
 
 ---
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]((https://www.linkedin.com/in/bhawuk-garg-928075308/))
+## 📬 Connect with me
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bhawuk_Garg-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bhawuk-garg-928075308/)
 
 ## 🛠️ Tools & Tech
 ![Python](https://img.shields.io/badge/-Python-333?logo=python&logoColor=yellow)
