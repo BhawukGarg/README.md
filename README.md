@@ -1,5 +1,5 @@
 # README.md
-
+![Banner](banner.png)
 # 👋 Hi, I'm Bhawuk Garg!
 
 ### 🎓 AI/ML Enthusiast | 🧠 Developer | 🎮 Gamer | 🎨 Designer
