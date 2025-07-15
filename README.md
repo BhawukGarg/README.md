@@ -37,3 +37,20 @@ I'm a 3rd-year student at **Echelon Institute of Technology, Faridabad**, passio
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+### 📊 GitHub Stats
+
+![Bhawuk's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BhawukGarg&show_icons=true&theme=radical)
+
+### 🔥 Current Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=BhawukGarg&theme=radical&hide_border=false)](https://git.io/streak-stats)
+
+### 🧑‍💻 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BhawukGarg&layout=compact&theme=radical)
+
+### 📈 Contribution Graph
+
+[![Bhawuk's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BhawukGarg&theme=react-dark)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+
